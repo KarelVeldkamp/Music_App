@@ -14,7 +14,7 @@ The underlying algorithm is quite simple:
 
 The algorithm is quite simple, and the recommendations can sometimes be all over the place, however you can definitely find some cool songs using the app.
 
-![alt text](/images/audio_features.png  =250x)
+![alt text](/images/audio_features.png | width=100)
 ### Visualisation of collaborations
 This page lets you visualize the collaborations of a certain artist. Specifically, you can select an artists, and it will look up all the artists that have ever worked with them. The collaborators will then all be nodes in the network, and an edge represents wether the collaborators have also collaborated with each other. Node size represents the number of collaborations with the selected artist, and edge size represents the number of collaborations between two nodes.
 
